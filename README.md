@@ -1,5 +1,7 @@
 # Video Stream with NodeJs
 
+![Video Stream](https://github.com/webomnizz/nodejs-video-stream/raw/master/screenshot.png)
+
 ## Requirements
 * Express
 * Ejs (Template Engine)
