@@ -1,0 +1,20 @@
+{
+  "name": "video-stream",
+  "version": "1.0.0",
+  "description": "Video Stream Example with NodeJs + HTML5",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["video-stream", "nodejs", "html5", "video-stream-nodejs"],
+  "author": "Jogesh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
